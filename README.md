@@ -17,3 +17,16 @@ JavaScript Web Applications: jQuery Developers' Guide to Moving State to the Cli
 JavaScript Patterns: Build Better Applications with Coding and Design Patterns
 - https://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/
 
+## Back-end (Java)
+
+Sierra K., Bates B. Head First Java
+- https://www.oreilly.com/library/view/head-first-java/0596009208/
+
+Intro to SQL: Querying and managing data
+- https://www.khanacademy.org/computing/computer-programming/sql
+
+Шилдт Г. Полный справочник по Java
+
+Эккель Б. Философия Java
+
+Хорстманн К., Корнелл Г. Java. Библиотека профессионала, том 1
