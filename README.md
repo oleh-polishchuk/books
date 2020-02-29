@@ -7,7 +7,9 @@
 
 ## Books that will help me to grow
 
-1. 
+1. Head First Design Patterns: A Brain-Friendly Guide 1st Edition, Kindle Edition
+https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY
+
 
 ## Front-end
 
