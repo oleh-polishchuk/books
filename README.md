@@ -1,5 +1,14 @@
 # books
 
+## Books that helped me to grow
+
+1. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win Hardcover – January 10, 2013
+- https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
+
+## Books that will help me to grow
+
+1. 
+
 ## Front-end
 
 MDN: JavaScript Guide
@@ -30,3 +39,25 @@ Intro to SQL: Querying and managing data
 Эккель Б. Философия Java
 
 Хорстманн К., Корнелл Г. Java. Библиотека профессионала, том 1
+
+## DevOps 
+
+The Phoenix Project by Gene Kim, et al.
+- https://play.google.com/store/books/details/?id=npNOCgAAQBAJ
+
+The DevOps Handbook by Gene Kim, et al.
+- https://kniga.biz.ua/book-rukovodstvo-po-devops-kak-dobitsia-gibkosti-nadezhnosti-i-bezopasnosti-mirovogo-urovnia-v-tekhnologich-006962.html
+
+The Unicorn Project, A Novel about Developers, Digital Disruption, and Thriving in the Age of Data, by Gene Kim
+- https://itrevolution.com/the-unicorn-project/
+
+Continuous Delivery by Jez Humble, David Farley
+- https://lavkababuin.com/nepreryvnoe-razvertyvanie-po-avtomatizaciya-processov-sborki-testirovaniya-i-vnedreniya-novyh-versiy-223001/
+
+Release It! by Michael T. Nygard
+- https://balka-book.com/upravlenie_it_proektami-364/release_it_proektirovanie_i_dizayn_po_dlya_teh_komu_ne_vsyo_ravno-32739
+
+Refactoring by Martin Fowler
+- https://balka-book.com/razrabotka_programnogo_obespecheniya-366/refaktoring_uluchshenie_suschestvuyuschego_koda-2579
+
+
