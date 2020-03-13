@@ -5,6 +5,9 @@
 1. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win Hardcover – January 10, 2013
 - https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
 
+2. No B.S. Ruthless Management of People and Profits, Dan S. Kennedy
+- https://www.amazon.com/Ruthless-Management-People-Profits-Take-No-Prisoners/dp/1599181657
+
 ## Books that will help me to grow
 
 1. Head First Design Patterns: A Brain-Friendly Guide 1st Edition, Kindle Edition
