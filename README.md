@@ -13,6 +13,8 @@
 1. Head First Design Patterns: A Brain-Friendly Guide 1st Edition, Kindle Edition
 https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY
 
+2. Software Architecture in Practice, 3rd Edition
+https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734
 
 ## Front-end
 
