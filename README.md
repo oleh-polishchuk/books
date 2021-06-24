@@ -16,6 +16,9 @@ https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA3
 2. Software Architecture in Practice, 3rd Edition
 https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734
 
+3. The Making of a Manager: What to Do When Everyone Looks to You
+https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567
+
 ## Front-end
 
 MDN: JavaScript Guide
