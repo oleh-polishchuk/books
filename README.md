@@ -8,6 +8,11 @@
 2. No B.S. Ruthless Management of People and Profits, Dan S. Kennedy
 - https://www.amazon.com/Ruthless-Management-People-Profits-Take-No-Prisoners/dp/1599181657
 
+3. Пиши, скорочуй. Як створити дієвий текст, Людмила Саричєва, Максим Ільяхов
+- https://www.yakaboo.ua/ua/pishi-skorochuj.html
+
+
+
 ## Books that will help me to grow
 
 1. Head First Design Patterns: A Brain-Friendly Guide 1st Edition, Kindle Edition
